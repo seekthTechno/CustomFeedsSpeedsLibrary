@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CustomFeedsSpeedsLibrary.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaseFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">bbase.csv</Value>
+    </Setting>
+    <Setting Name="BasePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\\\Datasrv\\sapr\\parts\\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
